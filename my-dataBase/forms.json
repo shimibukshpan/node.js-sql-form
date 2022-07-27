@@ -1,0 +1,25 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"forms"},
+{"type":"table","name":"persons","database":"forms","data":
+[
+{"Personid":"5","firatname":"shimi","lastname":"rew","Email":"1224@gmail.com","Phone":"0546786599"},
+{"Personid":"6","firatname":"moshe","lastname":"viner","Email":"jacobalon123@gmail.com","Phone":"0535361971"},
+{"Personid":"7","firatname":"ewrw","lastname":"gggggggggggggggggggggggggg","Email":"jacobalon123@gmail.com","Phone":"0535361971"},
+{"Personid":"9","firatname":"slomo","lastname":"michael","Email":"ww@gmail.com","Phone":"2222222222"},
+{"Personid":"10","firatname":"dffffffffff","lastname":"dddddddd","Email":"ddddddd@gmai.com","Phone":"1111111111"},
+{"Personid":"11","firatname":"shimi","lastname":"bukshpan","Email":"buki8060@gmail.com","Phone":"1111111111"},
+{"Personid":"12","firatname":"shimi","lastname":"bukshpan","Email":"buki8060@gmail.com","Phone":"2222222222"},
+{"Personid":"13","firatname":"shimi","lastname":"bukshpan","Email":"buki8060@gmail.com","Phone":"2222222222"},
+{"Personid":"14","firatname":"shimi","lastname":"bukshpan","Email":"buki8060@gmail.com","Phone":"0546786599"},
+{"Personid":"15","firatname":"shimi","lastname":"bukshpan","Email":"buki8060@gmail.com","Phone":"0546786599"},
+{"Personid":"16","firatname":"shimi","lastname":"bukshpan","Email":"buki8060@gmail.com","Phone":"0546786599"},
+{"Personid":"17","firatname":"shimi","lastname":"bukshpan","Email":"buki8060@gmail.com","Phone":"0546786599"},
+{"Personid":"18","firatname":"shimi","lastname":"bukshpan","Email":"buki8060@gmail.com","Phone":"0546786599"},
+{"Personid":"19","firatname":"shimi","lastname":"bukshpan","Email":"buki8060@gmail.com","Phone":"0546786599"},
+{"Personid":"20","firatname":"shimi","lastname":"bukshpan","Email":"buki8060@gmail.com","Phone":"0546786599"},
+{"Personid":"21","firatname":"shimi","lastname":"bukshpan","Email":"buki8060@gmail.com","Phone":"0546786599"},
+{"Personid":"22","firatname":"eli","lastname":"segal","Email":"eki567@gmail.com","Phone":"0546786599"}
+]
+}
+]
