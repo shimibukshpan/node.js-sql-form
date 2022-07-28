@@ -1,6 +1,6 @@
 const port = 4000;
 
-let sql = require('./sql');
+const sql = require('./modules/sql');
 
 const Joi = require("joi");
 const contactSchema = Joi.object({
@@ -12,9 +12,8 @@ const contactSchema = Joi.object({
   });
 
 
-let express = require('express');
+const express = require('express');
 let app = express();
-
 app.set('view engine', 'ejs');
 
 const path = require("path");
@@ -22,7 +21,6 @@ const publicDirectoryPath = path.join(__dirname, "./mySite");
 app.use(express.static(publicDirectoryPath));
 
 const bodyParser = require('body-parser');
-const { array } = require('joi');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
